@@ -1,3 +1,28 @@
+# YouTube Live Chat - Ultra Fast Reply 🚀
+
+A lightweight userscript that instantly inserts a username into the YouTube live chat input field when you left-click on their name. No more annoying context menus, no more manual typing!
+
+## Why do you need this?
+Imagine watching a live stream on YouTube and wanting to quickly reply to someone in the chat. Instead of a smooth experience, you have to do a bunch of annoying steps: type "@", manually type out their username, hit space, and only then start typing your message... It gets incredibly frustrating, especially on fast-paced streams where every second counts! 
+
+This script completely solves the problem. One click — and you are ready to type your reply!
+
+## Features
+* **Ultra-Fast Speed:** No need to open the three-dots context menu. It's built for rapid-fire chatting.
+* **Flawless Design:** Protected from the double-at glitch (`@@`). The tag will always be clean and tidy.
+* **Smart Care:** Automatically transfers the blinking cursor to the end of the line and inserts a hard, non-breaking space after the username.
+* **Native Menus Intact:** If you still need to report or block a user, clicking the three dots or their avatar opens the standard YouTube menu perfectly.
+
+## How to install
+1. Install the [Tampermonkey](https://tampermonkey.net) extension for your browser (Chrome, Yandex, Opera, Firefox).
+2. [Click here to install this script](https://raw.githubusercontent.com/Darkness-83/youtube-live-chat-reply/main/script.user.js).
+3. Open any YouTube live stream, refresh the page, and enjoy!
+
+## License
+Licensed under the GPL-3.0 License. Free for personal use.
+
+_______________________________________________________________________________
+
 # Быстрый ответ в чате Ютуба 🚀
 
 ### Зачем нужен этот скрипт?
@@ -17,32 +42,7 @@
 
 ## Как установить
 1. Установите расширение [Tampermonkey](https://tampermonkey.net) для вашего браузера (Chrome, Яндекс.Браузер, Opera, Firefox).
-2. [Нажмите здесь, чтобы установить этот скрипт](https://raw.githubusercontent.com/Darkness-83/youtube-live-chat-reply).
+2. [Нажмите здесь, чтобы установить этот скрипт](https://raw.githubusercontent.com/Darkness-83/youtube-live-chat-reply/main/script.user.js).
 3. Откройте любую трансляцию на YouTube, обновите страницу и пользуйтесь с удовольствием!
 
 Разработано совместно с AI. Лицензия свободная некоммерческая (GPL-3.0 License). Пользуйтесь на здоровье и приятного общения на трансляциях!
-
-_______________________________________________________________________
-
-# YouTube Live Chat - Ultra Fast Reply 🚀
-
-A lightweight userscript that instantly inserts a username into the YouTube live chat input field when you left-click on their name. No more annoying context menus, no more manual typing!
-
-## Why do you need this?
-Imagine watching a live stream on YouTube and wanting to quickly reply to someone in the chat. Instead of a smooth experience, you have to do a bunch of annoying steps: type "@", manually type out their username, hit space, and only then start typing your message... It gets incredibly frustrating, especially on fast-paced streams where every second counts! 
-
-This script completely solves the problem. One click — and you are ready to type your reply!
-
-## Features
-* **Ultra-Fast Speed:** No need to open the three-dots context menu. It's built for rapid-fire chatting.
-* **Flawless Design:** Protected from the double-at glitch (`@@`). The tag will always be clean and tidy.
-* **Smart Care:** Automatically transfers the blinking cursor to the end of the line and inserts a hard, non-breaking space after the username.
-* **Native Menus Intact:** If you still need to report or block a user, clicking the three dots or their avatar opens the standard YouTube menu perfectly.
-
-## How to install
-1. Install the [Tampermonkey](https://tampermonkey.net) extension for your browser (Chrome, Yandex, Opera, Firefox).
-2. [Click here to install this script](https://github.com/Darkness-83/youtube-live-chat-reply).
-3. Open any YouTube live stream, refresh the page, and enjoy!
-
-## License
-Licensed under the GPL-3.0 License. Free for personal use.
