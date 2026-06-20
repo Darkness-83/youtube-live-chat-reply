@@ -17,7 +17,7 @@
 
 ## Как установить
 1. Установите расширение [Tampermonkey](https://tampermonkey.net) для вашего браузера (Chrome, Яндекс.Браузер, Opera, Firefox).
-2. [Нажмите здесь, чтобы установить этот скрипт](https://github.com).
+2. [Нажмите здесь, чтобы установить этот скрипт](https://github.com/Darkness-83/youtube-live-chat-reply).
 3. Откройте любую трансляцию на YouTube, обновите страницу и пользуйтесь с удовольствием!
 
 Разработано совместно с AI. Лицензия свободная некоммерческая (GPL-3.0 License). Пользуйтесь на здоровье и приятного общения на трансляциях!
@@ -41,7 +41,7 @@ This script completely solves the problem. One click — and you are ready to ty
 
 ## How to install
 1. Install the [Tampermonkey](https://tampermonkey.net) extension for your browser (Chrome, Yandex, Opera, Firefox).
-2. [Click here to install this script](https://github.com).
+2. [Click here to install this script](https://github.com/Darkness-83/youtube-live-chat-reply).
 3. Open any YouTube live stream, refresh the page, and enjoy!
 
 ## License
